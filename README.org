@@ -1,0 +1,9 @@
+* 3bz
+
+yet another CL deflate decompressor
+
+|---------+-----------------------------------|
+| source  | git:https://github.com/3b/3bz.git |
+| commit  | 56283d9                           |
+| systems | 3bz                               |
+|---------+-----------------------------------|
