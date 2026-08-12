@@ -4,7 +4,7 @@ yet another CL deflate decompressor
 
 |---------+-----------------------------------|
 | source  | git:https://github.com/3b/3bz.git |
-| commit  | 4f8a90e                           |
+| commit  | 64d108e                           |
 | systems | 3bz                               |
 |---------+-----------------------------------|
   
